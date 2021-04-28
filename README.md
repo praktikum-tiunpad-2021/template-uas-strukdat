@@ -1,0 +1,1 @@
+# template-uas-strukdat
