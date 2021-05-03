@@ -26,7 +26,7 @@ dibebaskan sesuai kreatifitas kalian
 <!--
 Dalam kondisi pandemi seperti ini, tidak memungkinkan untuk bertemu bertatap muka. Maka dari itu
 jelaskan bagaimana kalian bekerja sama, berkoordinasi, pembagian kerja.Tools apa yang kalian gunakan
-untuk bekerja bersama sama cth github, google docs, google meet>ibebaskan sesuai kreatifitas kalian
+untuk bekerja bersama sama cth github, google docs, google meet
 !-->
 
 
